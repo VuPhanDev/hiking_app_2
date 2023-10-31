@@ -1,0 +1,57 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="166dp"
+    android:height="166dp"
+    android:viewportWidth="166"
+    android:viewportHeight="166">
+  <group>
+    <clip-path
+        android:pathData="M166,166l-166,-0l-0,-166l166,-0z"/>
+    <path
+        android:pathData="M83,83m-83,0a83,83 0,1 1,166 0a83,83 0,1 1,-166 0">
+      <aapt:attr name="android:fillColor">
+        <gradient 
+            android:startX="83"
+            android:startY="0"
+            android:endX="83"
+            android:endY="166"
+            android:type="linear">
+          <item android:offset="0.02" android:color="#FFF3AF2C"/>
+          <item android:offset="0.53" android:color="#FF838518"/>
+          <item android:offset="1" android:color="#FF30F4AE"/>
+        </gradient>
+      </aapt:attr>
+    </path>
+    <path
+        android:strokeWidth="1"
+        android:pathData="M155,123L111.3,65L99.69,75.85L88.77,65L67.94,86.03M80.57,102.99L57.7,72.46L36.19,95.19M42.33,102.99L15.02,68.05L0,88.4"
+        android:fillColor="#00000000"
+        android:strokeColor="#ffffff"/>
+    <path
+        android:pathData="M39.63,36H37.12C32.44,36 28.65,39.79 28.65,44.47H22.09C18.71,44.47 16,47.21 16,50.57C16,53.95 18.74,56.66 22.09,56.66H52.63C56.78,56.66 60.13,53.31 60.13,49.16C60.13,45.01 56.78,41.66 52.63,41.66H45.29"
+        android:strokeWidth="4"
+        android:fillColor="#00000000"
+        android:strokeColor="#ffffff"
+        android:strokeLineCap="round"/>
+    <path
+        android:pathData="M102,39.5a13,13.5 0,1 0,26 0a13,13.5 0,1 0,-26 0z">
+      <aapt:attr name="android:fillColor">
+        <gradient 
+            android:startX="115"
+            android:startY="26"
+            android:endX="115"
+            android:endY="53"
+            android:type="linear">
+          <item android:offset="0" android:color="#FFF9EF00"/>
+          <item android:offset="1" android:color="#00FF1F00"/>
+        </gradient>
+      </aapt:attr>
+    </path>
+    <path
+        android:pathData="M137.48,48H135.41C131.54,48 128.42,51.12 128.42,54.99H123.02C120.25,54.99 118,57.24 118,60.01C118,62.77 120.25,65.02 123.02,65.02H148.18C151.59,65.02 154.35,62.26 154.35,58.85C154.35,55.45 151.59,52.68 148.18,52.68H142.12"
+        android:strokeWidth="4"
+        android:fillColor="#00000000"
+        android:strokeColor="#ffffff"
+        android:strokeLineCap="round"/>
+  </group>
+</vector>
